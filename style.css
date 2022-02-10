@@ -1,0 +1,18 @@
+body {
+  background: url("earth.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+#timedate {
+  font: small-caps lighter 43px/150% "Segoe UI", Frutiger, "Frutiger Linotype",
+    "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  text-align: left;
+  width: 40%;
+  margin-left: 45rem;
+  margin-top: 15rem;
+  color: #fff;
+  border-left: 3px solid #0166e1;
+  padding: 20px;
+}
